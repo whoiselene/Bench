@@ -2,8 +2,8 @@ export const initialSubjects = [
   {
     id: "sub-1",
     title: "Operating Systems",
-    professor: "Dr. Alexander Cooper",
-    room: "Tech Hall 302",
+    professor: "JURGEN KLOPP",
+    room: "ANFIELD 2",
     startDate: "2026-08-03",
     endDate: "2026-12-15",
     weeklySchedule: [
@@ -25,8 +25,8 @@ export const initialSubjects = [
   },
   {
     id: "sub-2",
-    title: "Computer Networks",
-    professor: "Dr. Elena Vance",
+    title: "LIVERPOOL 101",
+    professor: "CODY GAKPO",
     room: "Engineering Annex 105",
     startDate: "2026-08-03",
     endDate: "2026-12-15",
@@ -50,7 +50,7 @@ export const initialSubjects = [
   {
     id: "sub-3",
     title: "Design Systems",
-    professor: "Prof. Marcus Brody",
+    professor: "STEVEN G",
     room: "Studio B",
     startDate: "2026-08-03",
     endDate: "2026-12-15",
