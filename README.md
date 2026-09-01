@@ -159,5 +159,4 @@ Because when you skip class, you're on the bench. Simple as that.
 
 ---
 
-Made by someone who has, at time of writing, 1 bench left in Operating Systems. Wish me luck.
 
