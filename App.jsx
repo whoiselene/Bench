@@ -3,7 +3,7 @@ import { initialSubjects, initialHolidays } from "./mockData";
 Y
 N
 W
-A
+A.
 
 
 const PlusIcon = () => (
