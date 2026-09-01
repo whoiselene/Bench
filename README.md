@@ -11,9 +11,8 @@ BENCH is a loud, on-purpose,  attendance calculator. You give it your schedule a
 
 ## why this exists
 
-Every attendance tracker I found online was either a spreadsheet someone's cousin made in 2014, or some SaaS-flavored app that wanted my email to tell me I'm "on track 🎉". I didn't want encouragement. I wanted a number. A cold, exact, don't-lie-to-me number.
 
-So: BENCH doesn't estimate. It walks your actual semester calendar day by day, skips the holidays, skips the canceled lectures, respects your excused medical absences, and gives you a runway — like a fuel gauge, except the fuel is your ability to not show up.
+BENCH doesn't estimate. It walks your actual semester calendar day by day, skips the holidays, skips the canceled lectures, respects your excused medical absences, and gives you a runway — like a fuel gauge, except the fuel is your ability to not show up.
 
 <br>
 
