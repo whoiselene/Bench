@@ -121,7 +121,7 @@ bench/
 ## running it locally
 
 ```bash
-git clone https://github.com/yourname/bench.git
+git clone https://github.com/whoiselene/bench.git
 cd bench
 npm install
 npm run dev
